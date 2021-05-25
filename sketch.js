@@ -18,7 +18,7 @@ function preload() {
   "images/Dancing/frame_16_delay-0.02s.png","images/Dancing/frame_17_delay-0.02s.png")
   dancingIMG.frameDelay = 0.5;
   yay = loadSound("images/YAYff.mp3")
-  hurtSound= loadSound("images/ouch.mp3")
+  hurtSound= loadSound("../images/ouch.mp3")
   hunterIMG = loadAnimation("images/Walking/run0001.png",
   "images/Walking/run0002.png","images/Walking/run0003.png","images/Walking/run0004.png"
   ,"images/Walking/run0005.png", "images/Walking/run0006.png",);
